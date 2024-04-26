@@ -24,7 +24,7 @@ The program is tested with ACS ACR122U (contactless reader) and ACS ACR39U (cont
 According to the PC/SC Library, this software support all of PC/SC compatible reader.
 
 ## Authors
-Code/project developed by Thanayut T.  
+Code/project developed by Boaz Kiptoo.  
 PC/SC wrapper classes for .NET developed by Daniel Mueller, see https://github.com/danm-de/pcsc-sharp/.
 
 ## License
